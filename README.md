@@ -1,6 +1,8 @@
 # Github
 🏠 House Price Prediction using Machine Learning
 
+________________________________________
+
 📌 Problem Statement
 This project aims to build a Linear Regression model to predict house prices based on features such as area, bedrooms, bathrooms, stories, and parking. The objective is to train the model on historical data and accurately estimate the target variable (Price).
 ________________________________________

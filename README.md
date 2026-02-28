@@ -14,12 +14,14 @@ Each record represents a house with the following features:
 •	Stories 
 •	Parking 
 •	Price (Target Variable) 
+________________________________________
 🛠️ Technologies Used
 •	Python
 •	NumPy
 •	Pandas
 •	Matplotlib / Seaborn
 •	Scikit-learn
+________________________________________
 📊 Machine Learning Algorithms Used
 •	Linear Regression
 •	Random Forest 
@@ -40,6 +42,7 @@ ________________________________________
 •	Mean Absolute Error (MAE)
 •	Mean Squared Error (MSE)
 •	R² Score
+________________________________________
 📊 Visualization
 •	A correlation heatmap was used to understand the relationship between features and house price.
 •	Distribution plots helped analyze the spread of house prices.
